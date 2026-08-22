@@ -1,0 +1,35 @@
+# LLM / Embeddings
+openai
+mistralai
+
+# LangChain
+langchain
+langchain-community
+langchain-openai
+langchain-mistralai
+
+# Vector Database
+chromadb
+
+# Document Loading
+pypdf
+python-docx
+unstructured
+
+# Text Splitting
+tiktoken
+
+# Environment Variables
+python-dotenv
+
+# API / Backend
+fastapi
+uvicorn[standard]
+python-multipart
+
+# HTTP / Utilities
+requests
+httpx
+
+# Data Processing
+numpy
